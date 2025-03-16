@@ -1,5 +1,7 @@
 # About
 
+A FastAPI-based application using Socket.IO for real-time communication.
+
 ## Folder Structure
 
 ```txt
