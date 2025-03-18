@@ -1,0 +1,28 @@
+services:
+  # Next.js frontend service
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    environment:
+      - NODE_ENV=development
+    depends_on:
+      - backend
+    command: npm run dev
+
+  # Express.js backend service
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+      - ./backend/database.sqlite:/app/database.sqlite
+    environment:
+      - NODE_ENV=development
+      - DOCKER_ENV=true
+    command: npm run dev
