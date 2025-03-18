@@ -1,6 +1,6 @@
 # About
 
-A Next.JS and FastAPI-based application using Socket.IO for real-time communication.
+A real-time chat application built with Next.js and FastAPI, powered by Socket.IO for instant message delivery
 
 ## Folder Structure
 
