@@ -1,6 +1,6 @@
 # About
 
-A real-time chat application built with Next.js and FastAPI, powered by Socket.IO for instant message delivery
+A real-time chat application built with Next.js and FastAPI, powered by Socket.IO for instant message delivery.
 
 ## Tech Stack
 

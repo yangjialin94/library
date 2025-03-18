@@ -1,7 +1,6 @@
 # About
 
-An **E-Commerce Dashboard** built with **Next.js, Express, and TypeScript**.  
-This project provides **product listing, cart management, and checkout functionalities** with a **modern UI and responsive design**.
+An E-Commerce Dashboard built with **Next.js, Express, and TypeScript.  
 
 ## Screenshots
 
