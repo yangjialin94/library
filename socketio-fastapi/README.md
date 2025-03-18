@@ -5,7 +5,7 @@ A FastAPI-based application using Socket.IO for real-time communication.
 ## Folder Structure
 
 ```txt
-socketio-fastpi/
+socketio-fastapi/
 │-- main.py             # Entry point for the FastAPI server
 │-- sockets.py          # Defines the Socket.IO event handlers
 │-- client.py           # Simple Socket.IO client for testing
