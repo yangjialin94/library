@@ -8,7 +8,7 @@ A repository containing small projects for testing various tools.
 
 An E-Commerce Dashboard built with Next.js, Express, and TypeScript.  
 
-### [socketio-fastpi](./socketio-fastpi/)
+### [socketio-fastpi](./socketio-fastapi/)
 
 A FastAPI-based application using Socket.IO for real-time communication.
 
