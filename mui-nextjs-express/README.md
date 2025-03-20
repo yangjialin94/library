@@ -2,16 +2,6 @@
 
 An E-Commerce Dashboard built with **Next.js, Express, and TypeScript.  
 
-## Screenshots
-
-### Store Dashboard
-
-![Store](https://github.com/user-attachments/assets/cb86a6cc-1387-4c40-b048-f81352d73eb5)
-
-### Cart
-
-![Cart](https://github.com/user-attachments/assets/fd046ee3-09d5-4641-a618-be3075e0d814)
-
 ## Tech Stack
 
 ### **Frontend:**
